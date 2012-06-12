@@ -1,0 +1,10 @@
+# uses pywurfl module http://pypi.python.org/pypi/pywurfl
+#
+# usage: python mobile_devices_engine.py <arguments>
+#
+# possible arguments:
+# (1)  um <model_name> <file_name>   - find all userAgent for given model
+# (2)  devOS <device_os> <file_name> - find devices that run specific OS
+# (3)  generate <file_name>          - generate UA data
+# (4)  detect <user_agent>           - detect device based on userAgent
+
